@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Minecraft {
+public class Minesweeper {
 
 
     public static void main(String[] args) {
